@@ -8,7 +8,6 @@
 
 </h1>
 
-<img align="right"  height="271" width="400" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ5cW84eXEwdXd6MTBlbXlhcjR2bnNsZXk1cmg5YTgyZ2xoZDI1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif"/>
 
 # 💫 About Me:
 🔭 I'm currently working on my Open Source Contribution. 
